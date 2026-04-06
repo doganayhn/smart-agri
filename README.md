@@ -1,4 +1,4 @@
-![App Screenshot](./screenshot.png)
+![App Screenshot](screenshot.png)
 
 🌾 Smart Agri — Flutter Mobile & Web App
 
